@@ -18,7 +18,7 @@ It replaces the background of your webcam feed with custom images and allows you
 
 ```bash
 # Clone the repository
-git clone https://github.com/AjaoFaisal/background-removal-mediapipe.git
+git clone https://github.com/faisal-ajao/background-removal-mediapipe.git
 cd background-removal-mediapipe
 
 # Create a virtual environment (optional)
