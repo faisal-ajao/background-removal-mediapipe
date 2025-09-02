@@ -1,11 +1,11 @@
-# 🖼️ Background Removal with MediaPipe
+# Background Removal with MediaPipe
 
 This project implements a real-time background removal system using **MediaPipe Selfie Segmentation** and OpenCV.  
 It replaces the background of your webcam feed with custom images and allows you to switch between them interactively.
 
 ---
 
-## 🚀 Features
+## Features
 - Real-time background removal using MediaPipe.
 - Smooth mask blending with Gaussian blur.
 - Adjustable segmentation threshold via trackbar.
@@ -14,7 +14,7 @@ It replaces the background of your webcam feed with custom images and allows you
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # Clone the repository
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Run the main script:
 ```bash
@@ -47,12 +47,12 @@ python main.py
 
 ---
 
-## 📊 Output Example (Video)  
+## Output Example (Video)  
 [![Watch the output](https://img.youtube.com/vi/k5rxVd-4VRg/hqdefault.jpg)](https://youtu.be/k5rxVd-4VRg?feature=shared)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 background-removal-mediapipe/
 ├── backgrounds/           # Directory of background images
@@ -67,7 +67,7 @@ background-removal-mediapipe/
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python 3.11.5
 - OpenCV
 - NumPy
@@ -75,7 +75,7 @@ background-removal-mediapipe/
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## Install dependencies
